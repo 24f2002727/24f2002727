@@ -1,23 +1,27 @@
-## Hi there 👋,I am Shivam Kumar
 
-<!--
-**24f2002727/24f2002727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋,I am Shivam Kumar
 
-Here are some ideas to get you started:
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
 
-🚀 Tech Stack
+## 🌱 About Me
 
-    Languages: C programming, Python, JavaScript
+    👨‍🏫 I’m a passionate tech student pursuing B.tech from Bhagalpur college of engineering.
+    👨‍🏫 I'm also pursuing BS in Data science & programming from IIT Madras.
+    💡 I currently gaining skills to make tech more efficient and smarter.
+    👀 I’m passionate about data, programming, and web development.
+    💞️ I love collaborating on Flask-based web app projects that make learning easier and smarter.
+
+----
+
+##👨‍💻 Programming Languages
+
+    HTML CSS Java JavaScript NodeJS Python SQL
+
+## 🚀 Tech Stack
+
+    ###Languages:
+    
+        C programming, Python, JavaScript
     
     Web & App Development: Flask, FastAPI, Vue.js, HTML, CSS, Jinja2
     
@@ -37,6 +41,8 @@ Here are some ideas to get you started:
 
 📊 GitHub Stats
 
+
+
     Hi stats 
 
 🌐 Connect with Me
@@ -44,4 +50,11 @@ Here are some ideas to get you started:
      🔗  Linkedln
      📧 Email:
      🖥️ Portfolio
+
+----
+##⭐ Thanks for visiting my profile!
+Feel free to explore my repositories and connect with me for collaborations or discussions.
+
+👁️ Visitor Counter
+profile views
 
