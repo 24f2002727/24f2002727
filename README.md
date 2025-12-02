@@ -14,55 +14,51 @@
 
 <h3 align="left">🧑‍💻Languages and Tools:</h3>
 <p align="left">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> &nbsp;&nbsp;
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp;&nbsp;
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> &nbsp;&nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;&nbsp;
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;&nbsp;
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;&nbsp;
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> &nbsp;&nbsp;
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;&nbsp;
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;&nbsp;
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;&nbsp;
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a> &nbsp;&nbsp;
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;
 </p>
 
-## 🚀 Tech Stack
+<h3>🚀 Tech Stack</h3>
 
-    ###Languages:
-    
-        C programming, Python, JavaScript
+    Languages: C programming, Python, JavaScript
     
     Web & App Development: Flask, FastAPI, Vue.js, HTML, CSS, Jinja2
     
-    Databases: SQLite, PostgreSQL, SQLAlchemy
+    Databases: SQLite, SQLAlchemy
     
     Task Queues & Deployment: Celery, Docker
     
     Data & Analytics: Pandas, NumPy, Matplotlib
 
-💼 Experience
+<h3>💼 Experience</h3>
 
-    Hello
+    One month intern as web developer with ProdigyInfoTech
 
-📚 Featured Projects
+<h3>📚 Featured Projects</h3>
 
-    Some highlights from my portfolio (repos linked):
+    Made a Hospital management system using HTML,CSS,JS,Bootstrap,Jinja2,Flask,SQLalchemy.
+    Made a shopping kart app using HTML,CSS,JS,Bootstrap,Jinja2,Flask,SQLalchemy.
+    
+<h3>📊 GitHub Stats</h3>
+👁️ Visitor Counter
+profile views
 
-📊 GitHub Stats
 
-
-
-    Hi stats 
-
-🌐 Connect with Me
+<h3>🌐 Connect with Me</h3>
 
      🔗  Linkedln
      📧 Email:
      🖥️ Portfolio
 
 ----
-##⭐ Thanks for visiting my profile!
+<h3>⭐ Thanks for visiting my profile!</h3>
 Feel free to explore my repositories and connect with me for collaborations or discussions.
 
-👁️ Visitor Counter
-profile views
 
