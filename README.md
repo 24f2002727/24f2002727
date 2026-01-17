@@ -79,7 +79,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=24f2002727&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=24f2002727&theme=radical" alt="GitHub Streak" />
+  <!-- <img src="https://streak-stats.demolab.com?user=24f2002727&theme=radical" alt="GitHub Streak" /> -->
 </p>
 
 <p align="center">
@@ -90,13 +90,14 @@
 
 <h3>💼 Experience</h3>
 
-    One month intern as web developer with ProdigyInfoTech
+    Intern as web developer with ProdigyInfoTech
+    Intern as trainee AI and DS through CDAC Patna
 
 <h3>📚 Featured Projects</h3>
 
     ⚪️ Hospital management system using HTML, CSS, JS, Bootstrap, Jinja2, Flask, SQLalchemy.
     ⚪️ Shopping kart app using HTML, CSS, JS, Bootstrap, Jinja2, Flask, SQLalchemy.
-    
+    ⚪️ AI Pass or fail predictator using data preprocessing techniques,regression model,Flask,python,jinja2 
 
 <h3>✨ Fun Fact</h3>
 
