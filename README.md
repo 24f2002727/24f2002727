@@ -6,17 +6,17 @@
 
     👨‍🏫 I’m a passionate tech student pursuing B.tech from Bhagalpur college of engineering.
     👨‍🏫 I'm also pursuing BS in Data science & programming from IIT Madras.
-    💡 I currently gaining skills to make tech more efficient and smarter.
+    💡 I'm currently gaining skills to make tech more efficient and smarter.
     👀 I’m passionate about data, programming, and web development.
     💞️ I love collaborating on Flask-based web app projects that make learning easier and smarter.
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shivamrock811307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamrock811307" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivamrock811307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamrock811307" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivamsingh811307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivamrock811307" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shivamsingh811307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamrock811307" height="30" width="40" /></a>
 </p>
-
+<a href="https://codolio.com/profile/shivamsingh811307" target="blank">Codolio</a>
 ---
 
 <h3 align="left">🧑‍💻Languages and Tools:</h3>
@@ -79,7 +79,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=24f2002727&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <!-- <img src="https://streak-stats.demolab.com?user=24f2002727&theme=radical" alt="GitHub Streak" /> -->
+  <img src="https://streak-stats.demolab.com?user=24f2002727&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -88,16 +88,21 @@
 
 ---
 
-<h3>💼 Experience</h3>
-
+### 💼 Experience</h3>
+<p align="center">
     Intern as web developer with ProdigyInfoTech
     Intern as trainee AI and DS through CDAC Patna
-
+</p>
 <h3>📚 Featured Projects</h3>
+<p align="left">
+    ⚪️ <a href="https://github.com/24f2002727/Hospital-management-system" target="blank"> Hospital management system</a>
+        - comprehensive system for managing medical records, appointments, and billing. Tech: Python, Flask, SQLAlchemy, Jinja2, Bootstrap.
+    ⚪️ <a href="https://github.com/24f2002727/shopping_kart">Shopping kart app</a>
+        - A full-stack e-commerce solution featuring product management and session-based cart logic. Tech: Python, Flask, SQLite, HTML/CSS.
+    ⚪️ <a href="https://github.com/24f2002727/CDAC-Patna-AI-DS/tree/main/capstone_project" target="blank">AI Pass/Fail Predictor </a>
+        -  A machine learning application using data preprocessing and regression models to predict student performance.
 
-    ⚪️ Hospital management system using HTML, CSS, JS, Bootstrap, Jinja2, Flask, SQLalchemy.
-    ⚪️ Shopping kart app using HTML, CSS, JS, Bootstrap, Jinja2, Flask, SQLalchemy.
-    ⚪️ AI Pass or fail predictator using data preprocessing techniques,regression model,Flask,python,jinja2 
+Tech: Python, Flask, Scikit-learn, Pandas
 
 <h3>✨ Fun Fact</h3>
 
