@@ -169,10 +169,10 @@ Tech Stack: Flask, SQLAlchemy, PostgreSQL, Bootstrap
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=24f2002727&show_icons=true&theme=radical" />
 </p>
-<p align="left">
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=24f2002727&theme=radical" />
 </p>
-<p align="right">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f2002727&layout=compact&theme=radical" />
 </p>
 
