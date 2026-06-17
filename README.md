@@ -8,7 +8,7 @@ Passionate about building intelligent systems and scalable web applications thro
 
 ---
 
-🚀 About Me
+<h3>🚀 About Me</h3>
 
 * 🎓 Pursuing B.Tech from Bhagalpur College of Engineering
 * 🎓 Pursuing BS in Data Science & Programming from IIT Madras
@@ -16,22 +16,27 @@ Passionate about building intelligent systems and scalable web applications thro
 * 🌱 Currently exploring advanced Machine Learning workflows and modern web technologies
 * 💡 Passionate about transforming data into actionable insights and building impactful software solutions
 * 🚀 Open to internships, collaborations, and open-source contributions
-  
 
-🌐 Connect With Me
+---
+
+<h3>🌐 Connect With Me</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/shivamsingh811307" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
+  
 <a href="https://www.leetcode.com/shivamsingh811307" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
-</p>
+
+<a href="https://kaggle.com/shivamsingh811307" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shivamsingh811307" height="30" width="40" />
+</a>
 
 ---
 
-🧠 Machine Learning & Data Science
+<h3>🧠 Machine Learning & Data Science</h3>
 
 <p align="left">
 <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
@@ -40,10 +45,13 @@ Passionate about building intelligent systems and scalable web applications thro
 <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=plotly&logoColor=black">
 <img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white">
 </p>
+<p>
 Skills: EDA, Data Preprocessing, Feature Engineering, Missing Value Imputation, Label Encoding, One-Hot Encoding, Model Evaluation, Cross-Validation
+</p>
 
+⸻
 
-💻 Frameworks & Development
+<h3>💻 Frameworks & Development</h3>
 
 <p align="left">
 <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white">
@@ -52,18 +60,26 @@ Skills: EDA, Data Preprocessing, Feature Engineering, Missing Value Imputation, 
 <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white">
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white">
 </p>
+<p>
 Concepts: RESTful APIs, MVC Architecture
+</p>
 
-🗄️ Databases
+⸻
+
+<h3>🗄️ Databases</h3>
 
 <p align="left">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white">
 </p>
+<p>
 Tools: SQLAlchemy, Mongoose
+</p>
 
-⚙️ Programming Languages
+⸻
+
+<h3>⚙️ Programming Languages</h3>
 
 <p align="left">
 <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
@@ -73,7 +89,9 @@ Tools: SQLAlchemy, Mongoose
 <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">
 </p>
 
-🛠️ Developer Tools
+⸻
+
+<h3>🛠️ Developer Tools</h3>
 
 <p align="left">
 <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white">
@@ -85,7 +103,9 @@ Tools: SQLAlchemy, Mongoose
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
 </p>
 
-💼 Experience
+---
+
+<h3>💼 Experience</h3>
 
 AI & Data Science Trainee | CDAC Patna
 * Worked on machine learning workflows, data preprocessing, feature engineering, and model development.
@@ -95,9 +115,11 @@ Web Developer Intern | Prodigy InfoTech
 * Developed and maintained web applications using Flask, HTML/CSS, Bootstrap, and backend technologies.
 * Collaborated on projects involving database integration and responsive UI development.
 
-📚 Featured Projects
+---
 
-🎯 Campus Recruitment Portal
+<h3>📚 Featured Projects</h3>
+
+🎯 Placement Portal Application
 
 A full-stack recruitment management platform that streamlines campus hiring by connecting students, recruiters, and administrators through a centralized ecosystem.
 
@@ -140,18 +162,23 @@ Highlights
 
 Tech Stack: Flask, SQLAlchemy, PostgreSQL, Bootstrap
 
-📊 GitHub Stats
+---
+
+<h3>📊 GitHub Stats</h3>
+<br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=24f2002727&show_icons=true&theme=radical" />
 </p>
-<p align="center">
+<p align="left">
 <img src="https://streak-stats.demolab.com?user=24f2002727&theme=radical" />
 </p>
-<p align="center">
+<p align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f2002727&layout=compact&theme=radical" />
 </p>
 
-🎯 Areas of Interest
+---
+
+<h3>🎯 Areas of Interest</h3>
 
 * Machine Learning
 * Data Analytics
@@ -160,13 +187,17 @@ Tech Stack: Flask, SQLAlchemy, PostgreSQL, Bootstrap
 * Full-Stack Development
 * Competitive Programming
 
-📈 Currently Learning
+⸻
+
+<h3>📈 Currently Learning</h3>
 
 * Advanced Machine Learning
 * Deep Learning Fundamentals
 * Data Engineering Concepts
 * MERN Stack Development
 * System Design Basics
+
+---
 
 ## ⭐ Let's Connect
 
